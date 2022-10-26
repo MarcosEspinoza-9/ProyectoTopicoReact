@@ -1,0 +1,18 @@
+.estiloImgCard {
+  width: 100%;
+  border-radius: 5px 5px 0 0;
+}
+
+.b {
+  border: 0.5vmin solid black;
+}
+
+
+
+.ha::after {
+  content: '';
+  display: block;
+  position: absolute;
+}
+
+
